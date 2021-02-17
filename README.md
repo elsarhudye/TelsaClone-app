@@ -32,6 +32,5 @@ expo start
 &nbsp;
 ![Alt text](./github_media/img2.png?raw=true "Tesla Clone App ")
 &nbsp;
-![Alt text](./github_media/img3.png?raw=true "Tesla Clone App ")
-&nbsp;
+
 
