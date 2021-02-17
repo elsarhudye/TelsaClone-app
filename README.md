@@ -4,26 +4,34 @@
 
 # TelsaClone App
 
-I made this project while learning react native withn Expo.
+I made this project while learning react native with Expo.
 
 ## Summary
 
 - Realisation: -- 
 - Level: Beginer/intermediate
-- Stack: React native, expo
+- Stack: React native, expo, Babel
 
 ## How to try it
+Install expo:
+````
+npm install --global expo-cli
+````
 
 ### Getting starting
+Clone the project and launch it:
 ````
 git clone https://github.com/elsarhudye/TelsaClone-app.git
-npm start
+expo start
 
 ````
 
 
 
 ![Alt text](./github_media/img1.png?raw=true "Tesla Clone App ")
-
-
+&nbsp;
+![Alt text](./github_media/img2.png?raw=true "Tesla Clone App ")
+&nbsp;
+![Alt text](./github_media/img3.png?raw=true "Tesla Clone App ")
+&nbsp;
 
